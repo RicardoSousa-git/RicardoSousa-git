@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RicardoSousa-git!
+- 👀 I’m interested in data science, technology and biomedical engineering.
+- 🌱 I’m currently learning some concepts important to the data science field, in particular Python, SQL and how to work with data visualization tools, so I could start working in this field and build a career as a data scientist.
